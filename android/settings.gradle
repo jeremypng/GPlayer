@@ -1,1 +1,7 @@
 rootProject.name = 'gplayer'
+
+sourceControl {
+    gitRepository("https://github.com/jeremypng/ijkplayer.git") {
+        producesModule("com.github.jeremypng:ijkplayer-java")
+    }
+}
