@@ -34,6 +34,7 @@ android {
 }
 
 dependencies{
-    compile 'com.github.tcking:ijkplayer-java:0.8.8'
+    compile 'com.github.jeremypng:ijkplayer-java:0.8.8'
+//    compile 'com.github.tcking:ijkplayer-java:0.8.8'
 //    compile 'com.github.tcking:ijkplayer-armv7a:0.8.8'
 }
